@@ -1,6 +1,6 @@
 # Olá, me chamo Vitor Hugo Mendes👋
 
-Sou um desenvolvedor FullStack, atualmente procurando oportunidades na área!<br>
+Sou um desenvolvedor FullStack.<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -52,11 +52,4 @@ Sou um desenvolvedor FullStack, atualmente procurando oportunidades na área!<br
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Vitor Hugo Mendes" height="30" width="40" /></a>
 </p>
--------
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vitorhugomendes&show_icons=true&count_private=true&theme=prussian">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugomendes&layout=compact&hide_border=true&theme=prussian">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=vitorhugomendes&theme=prussian">
-  <br>
-  <br>
- </p>
+
