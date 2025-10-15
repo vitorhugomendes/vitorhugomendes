@@ -2,8 +2,6 @@
 
 Desenvolvedor FullStack.<br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 ## Tecnologias
 
 <p align="left"> 
@@ -44,3 +42,11 @@ Desenvolvedor FullStack.<br>
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
 </p>
+
+## Conecte-se comigo:
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitorhugomendes/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Vitor Hugo Mendes" height="30" width="40" /></a>
+</p>
+
